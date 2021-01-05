@@ -6,3 +6,17 @@ Course url: https://www.udemy.com/course/100-days-of-code/
 ## Section 41: Web Foundation - Intro to HTML
 
 HTML personal site
+
+- headings
+- paragraphs
+- images
+- tables
+- anchors
+
+## Section 42: Web Foundation - Intermediate HTML
+
+HTML personal site extension
+
+- forms
+- labels
+- inputs
