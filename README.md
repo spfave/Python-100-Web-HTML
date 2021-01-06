@@ -20,3 +20,13 @@ HTML personal site extension
 - forms
 - labels
 - inputs
+
+## Section 43: Web Foundation - Introduction to CSS
+
+HTML personal site styling
+
+- Inline CSS
+- Internal CSS
+- External CSS
+- style classes
+- style ids
